@@ -1,0 +1,7 @@
+musicsearch.search:
+  path: '/music-search'
+  defaults:
+    _controller: '\Drupal\musicsearch\Controller\MusicSearchController::search'
+    _title: 'Music Search'
+  requirements:
+    _permission: 'access content'

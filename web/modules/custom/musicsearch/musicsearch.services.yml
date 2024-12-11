@@ -1,0 +1,4 @@
+services:
+  musicsearch.music_search_service:
+    class: Drupal\musicsearch\MusicSearchService
+    arguments: ['@spotify_lookup.spotify_service']

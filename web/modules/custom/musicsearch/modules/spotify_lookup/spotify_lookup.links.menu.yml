@@ -1,0 +1,5 @@
+spotify_lookup.settings:
+  title: 'Spotify Lookup Settings'
+  description: 'Configure the Spotify API settings.'
+  route_name: spotify_lookup.settings_form
+  parent: system.admin_config_services

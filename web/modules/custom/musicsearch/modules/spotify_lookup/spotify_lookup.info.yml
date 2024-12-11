@@ -1,0 +1,6 @@
+name: Spotify Lookup
+type: module
+description: 'Provides Spotify search functionality.'
+package: Custom
+core_version_requirement: ^10
+
